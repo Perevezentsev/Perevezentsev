@@ -16,7 +16,7 @@ FastAPI · React · PostgreSQL · Redis · Docker · [Кейс →](https://gith
 
 ### 📚 [Книжный год](https://github.com/Perevezentsev/bookbot) — Telegram-бот для учёта прочитанных книг
 Продуктовый кейс: от бытовой проблемы до пилота с внешними пользователями за два вечера.
-Итерации по обратной связи, встроенный бэклог от пользователей, release notes, метрики активации и удержания.
+Итерации по обратной связи, встроенный бэклог от пользователей, release notes, метрики использования.
 
 Python · aiogram · SQLite · Google Books API
 
@@ -26,7 +26,7 @@ Python · aiogram · SQLite · Google Books API
 ## Опыт
 
 - **Системный аналитик (PO-зона)** — Кристалл Сервис: low-code BPMN-платформа Partitura (Neo4j, GraphQL)
-- **Руководитель проектов цифровизации производства** — Smurfit Kappa Bag-in-Box: SCADA-мониторинг, CAPEX-бюджет выросший с ~5 до ~20 млн ₽ в год
+- **Руководитель проектов цифровизации производства** — Smurfit Kappa Bag-in-Box: SCADA-мониторинг, CAPEX-бюджет, выросший с ~5 до ~20 млн ₽ в год
 - **Начальник производства** — Smurfit Kappa Bag-in-Box
 - **Менеджер по качеству** — Sejong Rus
 
